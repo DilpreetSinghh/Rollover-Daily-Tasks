@@ -1,6 +1,6 @@
 {
-  "id": "rollover-daily-tasks",
-  "name": "Rollover Daily Tasks",
+  "id": "rollover-daily-tasks-advanced",
+  "name": "Rollover Daily Tasks Advanced",
   "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "description": "Roll over uncompleted tasks from your previous daily note into today's note. Supports time-based filtering (HHmm-HHmm, HH:mm-HH:mm formats), chronological sorting by time prefix, and omit patterns for template tasks.",
