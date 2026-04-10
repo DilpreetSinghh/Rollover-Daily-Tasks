@@ -3,7 +3,7 @@
   "name": "Rollover Daily Tasks",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Roll over uncompleted tasks from the previous daily note to today's. Supports time-prefix filtering, time-based sorting (HHmm-HHmm, HH:mm-HH:mm), and omit patterns for template tasks.",
+  "description": "Roll over uncompleted tasks from your previous daily note into today's note. Supports time-based filtering (HHmm-HHmm, HH:mm-HH:mm formats), chronological sorting by time prefix, and omit patterns for template tasks.",
   "author": "DilpreetSinghh",
   "authorUrl": "https://github.com/DilpreetSinghh",
   "fundingUrl": "",
